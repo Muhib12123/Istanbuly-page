@@ -22,12 +22,12 @@ body{
 }
 
 .box-left{
-    width: 25vw;
-    height: 20vw;
+    width: 380px;
+    height: 300px;
     background-color: #fff;
     border-radius: 10px;
-    margin-left: 8vw;
-    margin-top: 10vw;
+    margin-left: 14vw;
+    margin-top: 150px;
     padding: 1vw;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.452);
 
@@ -94,12 +94,12 @@ body{
 }
 
 .box-right{
-    width: 26vw;
-    height: 40vw;
+    width: 400px;
+    height: 610px;
+    margin-left: 60vw;
     background-color: #fff;
     border-radius: 10px;
-    margin-left: 64vw;
-    margin-top: -22vw;
+    margin-top: -336px;
     padding: 1vw;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.452);
 }
