@@ -171,7 +171,7 @@ body{
 .sign-male{
     position: absolute;
     margin-left: 65px;
-    margin-top: 8px;
+    margin-top: 9px;
     cursor: pointer;
 }
 
@@ -199,7 +199,7 @@ body{
 .sign-female{
     position: absolute;
     margin-left: 75px;
-    margin-top: 8px;
+    margin-top: 9px;
     cursor: pointer;
 }
 
