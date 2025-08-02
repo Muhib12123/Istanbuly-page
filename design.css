@@ -287,3 +287,8 @@ body{
     border-color: rgb(255, 136, 1);
     box-shadow: 0 0 5px rgb(255, 136, 1, 0.5);
 }
+
+::selection{
+    background-color: rgb(255, 136, 1);
+    color: white;
+}
